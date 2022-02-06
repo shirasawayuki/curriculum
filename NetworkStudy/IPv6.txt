@@ -12,3 +12,4 @@
 
 　　　（３）MACアドレス：FFFF.FFFF.FFFF
           インターフェースID FD　FF FF FF FE　FF FF FF
+
